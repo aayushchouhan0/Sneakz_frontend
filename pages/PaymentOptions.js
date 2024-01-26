@@ -28,7 +28,7 @@ const PaymentOptions = () => {
 
   return (
     <div className="container mx-auto mt-8">
-      <h1 className="text-3xl font-semibold mb-6">Payment Options</h1>
+      <h1 className="text-3xl font-semibold mb-6 pl-5">Payment Options</h1>
 
       <div className=" mx-3 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         {paymentMethods.map((method) => (
