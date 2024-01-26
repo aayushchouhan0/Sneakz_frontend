@@ -148,12 +148,7 @@ const ProductDetails = ({ product, products }) => {
             </button>
             {/* ADD TO CART BUTTON END */}
 
-            {/* WHISHLIST BUTTON START */}
-            <button className="w-full py-4 rounded-full border border-black text-lg font-medium transition-transform active:scale-95 flex items-center justify-center gap-2 hover:opacity-75 mb-10">
-              Whishlist
-              <IoMdHeartEmpty size={20} />
-            </button>
-            {/* WHISHLIST BUTTON END */}
+           
 
             <div>
               <div className="text-lg font-bold mb-5">Product Details</div>
