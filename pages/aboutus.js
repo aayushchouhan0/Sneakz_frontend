@@ -10,7 +10,7 @@ const Aboutus = () => {
 
         <div className="mb-8">
           <p className="text-lg text-gray-700 leading-relaxed">
-            Welcome to our Sneakers Store, where style meets comfort! We are passionate about providing
+            Welcome t        o our Sneakers Store, where style meets comfort! We are passionate about providing
             you with the latest and trendiest sneakers to elevate your footwear game.
           </p>
         </div>
