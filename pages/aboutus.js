@@ -38,7 +38,12 @@ const Aboutus = () => {
             we're here to help you put your best foot forward!
           </p>
         </div>
+              
       </div>
+        <div className='p-8'>
+          <p>Created by Navneet sharma</p>
+          <img src="my.jpg" alt="no"  className='bg-contain'/>
+        </div>
     </div>
 
     </>
